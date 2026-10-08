@@ -1,0 +1,17 @@
+{
+  "version": "2026.10.08.0",
+  "sha256": "36c3a01727ba5bd65d04eea1d5a8b1a59f358e2bfc27d02e0be8dba5034bc53f",
+  "notes": "自动更新版 2026.10.08.0",
+  "parts": [
+    {
+      "sha256": "36c3a01727ba5bd65d04eea1d5a8b1a59f358e2bfc27d02e0be8dba5034bc53f",
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-box-7fa93c/main/update_2026.10.08.0_36c3a017.part1.bin",
+        "https://github.com/752153071/relay-box-7fa93c/raw/main/update_2026.10.08.0_36c3a017.part1.bin"
+      ]
+    }
+  ],
+  "urls": [
+    "https://github.com/752153071/relay-box-7fa93c/releases/download/v2026.10.08.0/update.zip"
+  ]
+}

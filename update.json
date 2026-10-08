@@ -1,17 +1,17 @@
 {
-  "version": "2026.10.08.1",
-  "sha256": "07b6bfa9f428110061302d137cdc3a22278e2768cecf5920a4ee5409e8a8990b",
-  "notes": "自动更新版 2026.10.08.1",
+  "version": "2026.10.08.2",
+  "sha256": "6c92b1d2772a8ac2c3a9461e87d051b7c365391480978daaf18dc66edb682b35",
+  "notes": "自动更新版 2026.10.08.2",
   "parts": [
     {
-      "sha256": "07b6bfa9f428110061302d137cdc3a22278e2768cecf5920a4ee5409e8a8990b",
+      "sha256": "6c92b1d2772a8ac2c3a9461e87d051b7c365391480978daaf18dc66edb682b35",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-box-7fa93c/main/update_2026.10.08.1_07b6bfa9.part1.bin",
-        "https://github.com/752153071/relay-box-7fa93c/raw/main/update_2026.10.08.1_07b6bfa9.part1.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-box-7fa93c/main/update_2026.10.08.2_6c92b1d2.part1.bin",
+        "https://github.com/752153071/relay-box-7fa93c/raw/main/update_2026.10.08.2_6c92b1d2.part1.bin"
       ]
     }
   ],
   "urls": [
-    "https://github.com/752153071/relay-box-7fa93c/releases/download/v2026.10.08.1/update.zip"
+    "https://github.com/752153071/relay-box-7fa93c/releases/download/v2026.10.08.2/update.zip"
   ]
 }
